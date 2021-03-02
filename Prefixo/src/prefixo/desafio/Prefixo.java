@@ -5,52 +5,42 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-class Prefixo {
+public class Prefixo {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-
-        Scanner entrada = new Scanner(System.in);
         int countEntrada = Integer.parseInt(br.readLine());
         boolean bom = true;
 
-        while (countEntrada > 0) {
-            StringTokenizer st = new StringTokenizer(br.readLine());
-
+        while (countEntrada != 0) {
             List<String> palavras = new ArrayList<>();
-            int aux = countEntrada;
 
-            while (st.hasMoreTokens()) {
-                palavras.add(st.nextToken().trim().toLowerCase().replaceAll("\t", " "));
-
-            }
-            if (palavras.get(0).equals(1)) {
-                break;
-            } else {
-                countEntrada--;
+            for (int i = 0; i < countEntrada; i++) {
+                palavras.add(br.readLine());
             }
 
             for (String p : palavras) {
                 List<String> listaPrefixo = new ArrayList<>();
-                int coutLetras = p.length();
 
                 for (String pp : palavras) {
-                    if (pp.length() >= coutLetras) {
-                        listaPrefixo.add(pp.substring(0, coutLetras));
+                    if (pp.length() >= p.length()) {
+                        listaPrefixo.add(pp.substring(0, p.length()));
                     }
                 }
                 listaPrefixo.remove(p);
-
                 if (listaPrefixo.contains(p)) {
                     bom = false;
                 }
             }
-            if (bom == true) {
+            if (bom) {
                 System.out.println("Conjunto Bom");
             } else {
                 System.out.println("Conjunto Ruim");
+                bom = true;
             }
-            countEntrada = entrada.nextInt();
+
+            countEntrada = Integer.valueOf(br.readLine());
+
         }
     }
 }
