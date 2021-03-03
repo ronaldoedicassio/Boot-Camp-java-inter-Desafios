@@ -3,6 +3,7 @@ package entrevista.desafio;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Locale;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
@@ -17,7 +18,7 @@ public class EntrevistaEmbaracosa {
         //while (st.hasMoreTokens()) {
         while (scanner.hasNext()) {
             //String palavra = st.nextToken();
-            String palavra = scanner.nextLine();
+            String palavra = scanner.nextLine().trim().toLowerCase();
             // Contador delimitando min e max para formar as subStrings
             int min = palavra.length() - 1;
             int count = 1;

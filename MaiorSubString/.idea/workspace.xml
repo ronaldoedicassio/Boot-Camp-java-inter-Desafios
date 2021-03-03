@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d21bbd42-96bd-4e3e-a742-2e56fdd81e1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../EntrevistaEmbaracosa/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EntrevistaEmbaracosa/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EntrevistaEmbaracosa/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EntrevistaEmbaracosa/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EntrevistaEmbaracosa/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EntrevistaEmbaracosa/EntrevistaEmbaracosa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EntrevistaEmbaracosa/src/entrevista/desafio/EntrevistaEmbaracosa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EntrevistaEmbaracosa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EntrevistaEmbaracosa/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EntrevistaEmbaracosa/src/entrevista/desafio/EntrevistaEmbaracosa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EntrevistaEmbaracosa/src/entrevista/desafio/EntrevistaEmbaracosa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
