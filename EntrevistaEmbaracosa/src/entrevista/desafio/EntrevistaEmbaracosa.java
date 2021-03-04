@@ -24,6 +24,7 @@ public class EntrevistaEmbaracosa {
             int count = 1;
             int max = palavra.length();
 
+
             if (max == 1) {
                 System.out.println(palavra);
             } else {

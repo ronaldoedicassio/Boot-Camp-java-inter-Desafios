@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6604ac-b792-48ac-974c-8da663cc8b6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ValidadorSenhas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidadorSenhas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidadorSenhas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidadorSenhas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidadorSenhas/ValidadorSenhas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ValidadorSenhas/src/validador/desafio/ValidadorSenha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entrevista/desafio/EntrevistaEmbaracosa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entrevista/desafio/EntrevistaEmbaracosa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entrevista/desafio/texte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entrevista/desafio/texte.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MaiorSubString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaiorSubString/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Boot-Camp-java-inter-Exercicios/springboot" />
   </component>
   <component name="RunManager" selected="Application.texte">
     <configuration name="EntrevistaEmbaracosa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d21bbd42-96bd-4e3e-a742-2e56fdd81e1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ValidadorSenhas/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ValidadorSenhas/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ValidadorSenhas/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ValidadorSenhas/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ValidadorSenhas/ValidadorSenhas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ValidadorSenhas/src/validador/desafio/ValidadorSenha.java" afterDir="false" />
+    <list default="true" id="d176046a-bbfe-4114-988e-fd2da766b63f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValidadorSenhas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validador/desafio/ValidadorSenha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EntrevistaEmbaracosa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EntrevistaEmbaracosa/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EntrevistaEmbaracosa/src/entrevista/desafio/EntrevistaEmbaracosa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EntrevistaEmbaracosa/src/entrevista/desafio/EntrevistaEmbaracosa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaiorSubString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaiorSubString/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1pD2VrW9ZzrW4YcZ7KuXnkU7TF4" />
+  <component name="ProjectId" id="1pGJhY16sphRsLVptXJeMgVpTK5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,26 +38,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SubStringMaior">
-    <configuration name="SubStringMaior" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="subString.desafio.SubStringMaior" />
-      <module name="MaiorSubString" />
+  <component name="RunManager">
+    <configuration name="ValidadorSenha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="validador.desafio.ValidadorSenha" />
+      <module name="ValidadorSenhas" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="subString.desafio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Teste" />
-      <module name="MaiorSubString" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="validador.desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,19 +54,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubStringMaior" />
-        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.ValidadorSenha" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d21bbd42-96bd-4e3e-a742-2e56fdd81e1c" name="Default Changelist" comment="" />
-      <created>1614703368805</created>
+      <changelist id="d176046a-bbfe-4114-988e-fd2da766b63f" name="Default Changelist" comment="" />
+      <created>1614803615305</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614703368805</updated>
+      <updated>1614803615305</updated>
     </task>
     <servers />
   </component>
@@ -93,6 +79,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
