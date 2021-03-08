@@ -13,8 +13,8 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-@Data
-@Entity
+@Data // gerar getter and setters
+@Entity // descreve a entidade
 @NoArgsConstructor
 @AllArgsConstructor
 public class Beer {
